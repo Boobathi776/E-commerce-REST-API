@@ -64,7 +64,7 @@ This project is a RESTful API for managing e-commerce product data, built using 
 ```bash
 POST /products
 {
-  "id": 1,
-  "name": "Product A",
-  "price": 100
+  "prodId": 101,
+  "prodName": "Acer Laptop",
+  "price": 44000
 }
