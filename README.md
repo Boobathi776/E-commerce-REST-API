@@ -31,7 +31,7 @@ This project is a RESTful API for managing e-commerce product data, built using 
 - **Description**: A simple welcome message to test the API.
 
 ### `GET /about`
-- **Returns**: Information about the API and its functionality.
+- **Returns**: "Welcome we are learning and in the about page".
 - **Description**: Provides basic details about the project.
 
 ### `GET /products`
